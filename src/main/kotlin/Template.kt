@@ -3,8 +3,8 @@ import println
 import kotlin.time.measureTime
 
 fun main() {
-    val exampleInput = readLines("2024", "day1-example")
-    val input = readLines("2024", "day1")
+    val exampleInput = readLines("2025", "day1-example")
+    val input = readLines("2025", "day1")
 
     fun part1(lines: List<String>): Int {
         return 0
